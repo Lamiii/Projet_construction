@@ -1,0 +1,28 @@
+body{
+	background: url('../images/plans.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+}
+table.table-bordered{
+    border:1px solid blue;
+    margin-top:20px;
+  }
+table.table-bordered > thead > tr > th{
+    border:1px solid blue;
+}
+table.table-bordered > tbody > tr > td{
+    border:1px solid blue;
+}
+/**/
+.btn
+{
+	margin-left: 2%;
+	margin-bottom: 3%;
+}
+h1{
+	text-align: center;
+	margin-top: 30vh;
+	margin-bottom: 20vh;
+}
